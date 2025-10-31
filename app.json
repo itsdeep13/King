@@ -9,11 +9,11 @@
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
-            "description": "Enter your Bot Token",
+            "description": "7590266354:AAEGaPWU_uV2JErJ_HrBwTnL06LiQ4p0Itw",
             "required": true
         },
         "DB_NAME": {
-            "description": "Enter your DB Name",
+            "description": "uploaderbot",
             "required": true
         }
     },
@@ -26,3 +26,4 @@
     "addons": [],
     "buildpacks": []
 }
+
